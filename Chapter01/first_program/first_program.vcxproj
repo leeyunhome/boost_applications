@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="first_program.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="apples_oranges.cfg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
